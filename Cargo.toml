@@ -1,0 +1,3 @@
+[workspace]
+members = ["apodw-bin"]
+resolver = "2"
